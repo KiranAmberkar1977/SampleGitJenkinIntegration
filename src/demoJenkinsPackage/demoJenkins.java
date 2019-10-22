@@ -8,7 +8,7 @@ public class demoJenkins {
 public static void myTest ( ) {
 	short cnt;
 	for(cnt = 1; cnt < 9; cnt++) 
-		System.out.println("Hello world... Cnt for each iteration of my changes is:" + cnt);
+		System.out.println("Hello world... Cnt for each iteration of my latest changes is:" + cnt);
 	
 }
 	
